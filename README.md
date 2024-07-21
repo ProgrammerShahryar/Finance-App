@@ -1,2 +1,2 @@
-# TodoApp
-React Native Todo App
+# FinanceApp
+React Native Finance App
