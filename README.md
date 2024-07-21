@@ -1,2 +1,2 @@
-# Finance-App
-Developed Finance App using react native!
+# TodoApp
+React Native Todo App
